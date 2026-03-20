@@ -2,7 +2,7 @@
 
 <div class="container">
   <h1>TripDialIndia</h1>
-  <p>Explore Best Travel Packages!</p>
+  <p>Explore Best Travel Packages !</p>
 
   <div class="card">
     <h2>Goa Package</h2>

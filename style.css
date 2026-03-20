@@ -1,0 +1,14 @@
+/*
+Theme Name: TripDialIndia Theme
+Author: Praful
+Version: 1.0
+*/
+body {
+  font-family: Arial;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-top: 10px;
+}
